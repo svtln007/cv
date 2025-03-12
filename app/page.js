@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "page.module.css"; // Импортируем стили из модуля
+import styles from "./page.module.css"; // Импортируем стили из модуля
 
 export default function Home() {
   return (
